@@ -710,6 +710,10 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2386974, guid: 0955b349ae7e9e44aa2b478e5f3dbdca, type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0955b349ae7e9e44aa2b478e5f3dbdca, type: 2}
   m_IsPrefabParent: 0
@@ -1018,7 +1022,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!23 &1438195383
 MeshRenderer:
   m_ObjectHideFlags: 0
